@@ -8,9 +8,9 @@ img{width: 100%; height: 100%;}
 			.BLogin{width: 20%; height: 100%; float: right;background-color: white; float: right;}
 				.textBtn{width: 30%; height: 30%; float: left;}
 		
-		.Imglayout1{width: 100%;height: 3%; background-color: #DCDCDC;}
-			.Imglayout1menus{width: 80%; height: 100%; background-color: #DCDCDC; margin: auto;}
-				.menu1{width: 10%; height: 100%; background-color: #DCDCDC; float: left; text-decoration: none; font-size: 13px; color: black; font-variant-position: middle;}
+		.Imglayout1{width: 100%;height: 3%;}
+			.Imglayout1menus{width: 80%; height: 100%; margin: auto;}
+				.menu1{width: 10%; height: 100%; float: left; text-decoration: none; font-size: 13px; color: black; font-variant-position: middle;}
 		
 		.Imglayout2{width: 100%;height: 30%; background-color: purple;}
 		
@@ -26,9 +26,4 @@ img{width: 100%; height: 100%;}
 				.I3 {width:47%; height:45%; background-color: white; float: left; padding: 5px 5px 0px 5px;}
 				.I4 {width:47%; height:45%; background-color: white; float: left; padding: 5px 0px 0px 5px;}	
 		
-		.Imglayout5{width: 100%;height: 10%; background-color: gray; color: #fff; padding: 10px 0px 0px 0px;}}
-}
-}
-}
-}
-}
+		.Imglayout5{width: 100%;height: 10%; background-color: gray; color: #fff; padding: 10px 0px 0px 0px;}
